@@ -1,6 +1,6 @@
 # CSIA-PME
 
-**La mission du Swiss AI Center est d’accélérer l’adoption de l’intelligence artificielle dans la transition numérique des PME suisses. L’enjeu socio-économique associé est d’accroître leur compétitivité, de limiter les délocalisations et de créer de nouvelles compétences à l’interface des laboratoires et de l’utilisation pratique de l’intelligence artificielle.**
+**The mission of the Swiss AI Center is to accelerate the adoption of artificial intelligence in the digital transition of Swiss SMEs. The associated socio-economic challenge is to increase their competitiveness, limit relocation and create new skills at the interface between laboratories and the practical use of artificial intelligence.**
 
 SMEs in Switzerland account for 3 million jobs in 590,000 companies, or 60% of the working population. The digital transition is a major challenge for SMEs, impacting all areas, from administration and production to sales and purchasing. In this digital transition, many SMEs could increase their competitiveness and avoid relocation by accelerating the adoption of artificial intelligence (AI) in their digital portfolio. Indeed, players are predicting numerous use cases for AI in SMEs: marketing and sales targeting, greater efficiency in processing customer service-related documents, financial optimization, decision support, predictive maintenance - and in all fields, including retail, healthcare, energy and construction.
 
