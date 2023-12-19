@@ -6,7 +6,7 @@
   <a href="https://swiss-ai-center.ch">🌍 Website</a> ·
   <a href="https://docs.swiss-ai-center.ch">📚 Documentation</a> ·
   <a href="https://frontend-swiss-ai-center.kube.isc.heia-fr.ch">📦 Application</a> ·
-  <a href="https://mlops.swiss-ai-center">♾️ A guide to MLOps</a>
+  <a href="https://mlops.swiss-ai-center.ch">♾️ A guide to MLOps</a>
 </p>
 
 > The mission of the Swiss AI Center is to accelerate the adoption of artificial
